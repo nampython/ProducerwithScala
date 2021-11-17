@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[0m[34m[E1] [0m[0m[4msrc/main/scala/code/producer.scala[0m[0m
+[0m[[0m[31merror[0m] [0m[0m     not found: value Source[0m
+[0m[[0m[31merror[0m] [0m[0m     [0m[31mL15: [0m    val wordList = Source.fromFile("src/main/scala/data/data.txt").getLines().toSeq[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0msrc/main/scala/code/producer.scala: [0m[31mL15[0m[0m[34m [E1][0m[0m
+[0m[[0m[0minfo[0m] [0m[0mLegend: Ln = line n, Cn = column n, En = error n[0m
